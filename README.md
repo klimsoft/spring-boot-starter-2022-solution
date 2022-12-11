@@ -1,6 +1,6 @@
 # spring-boot-starter-2022
 
 
-# TODO
-- SpringBootStarterIntegrationTest takes long time and we would like it only with profile: integration.
+- SpringBootStarterIntegrationTest takes long time and we would like it only with profile: integration:
+  ./mvnw clean install -P integration
 - 
